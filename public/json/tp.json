@@ -1,0 +1,22 @@
+[
+    {
+        "goodname":"图片1",
+        "img":"img/tp/tp01.jpg"
+    },
+    {
+        "goodname":"图片2",
+        "img":"img/tp/tp02.jpg"
+    },
+    {
+        "goodname":"图片3",
+        "img":"img/tp/tp03.jpg"
+    },
+    {
+        "goodname":"图片4",
+        "img":"img/tp/tp04.jpg"
+    },
+    {
+        "goodname":"图片5",
+        "img":"img/tp/tp05.jpg"
+    }
+]

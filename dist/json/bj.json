@@ -1,0 +1,22 @@
+[
+    {
+        "goodname":"背景图1",
+        "img":"img/bj/bj01.jpg"
+    },
+    {
+        "goodname":"背景图2",
+        "img":"img/bj/bj02.jpg"
+    },
+    {
+        "goodname":"背景图3",
+        "img":"img/bj/bj03.jpg"
+    },
+    {
+        "goodname":"背景图4",
+        "img":"img/bj/bj04.jpg"
+    },
+    {
+        "goodname":"背景图5",
+        "img":"img/bj/bj05.jpg"
+    }
+]
